@@ -13,6 +13,7 @@ _POWER BI_
 3. Which sectors (coal, oil, gas, cement, land use change) contribute most to CO₂ emissions in different countries?
 4. How does primary energy consumption per capita relate to GHG emissions per capita, and which countries have high energy use but low emissions intensity?
 5. What is the contribution of methane and nitrous oxide to total GHG emissions across countries?
+<br>
 _TABLEAU_
 1. How have total and per capita CO₂ emissions changed over time (2000–2023) by country?
 2. What are the trends in sectoral CO₂ emissions (coal, oil, gas, cement, land use) over time?
