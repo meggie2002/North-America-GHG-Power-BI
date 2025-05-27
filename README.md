@@ -7,22 +7,19 @@ This project delivers a comprehensive analysis of greenhouse gas (GHG) emissions
 ---
 ## Analysis Questions
 
-_POWER BI_
-1. How have total and per capita CO₂ emissions changed over time from 2000 to 2023?
-2. How do greenhouse gas emissions correlate with economic indicators such as GDP and primary energy consumption?
-3. Which sectors (coal, oil, gas, cement, land use change) contribute most to CO₂ emissions in different countries?
-4. How does primary energy consumption per capita relate to GHG emissions per capita, and which countries have high energy use but low emissions intensity?
-5. What is the contribution of methane and nitrous oxide to total GHG emissions across countries?
-<br>
---
-_TABLEAU_
-1. How have total and per capita CO₂ emissions changed over time (2000–2023) by country?
-2. What are the trends in sectoral CO₂ emissions (coal, oil, gas, cement, land use) over time?
-3. How strongly are sectoral emissions correlated with total CO₂ emissions?
-4. What is the correlation between GDP, energy consumption, and CO₂ emissions?
-5. Which sector is the strongest predictor of CO₂ emissions based on linear trend analysis?
-6. Are there significant differences in emissions intensity (CO₂ per GDP, CO₂ per capita) between countries?
-7. What is the contribution of methane and nitrous oxide to total greenhouse gas emissions?
+_POWER BI_ and _TABLEAU_
+- How have total and per capita CO₂ emissions changed over time from 2000 to 2023?
+- How do greenhouse gas emissions correlate with economic indicators such as GDP and primary energy consumption?
+- Which sectors (coal, oil, gas, cement, land use change) contribute most to CO₂ emissions in different countries?
+- How does primary energy consumption per capita relate to GHG emissions per capita, and which countries have high energy use but low emissions intensity?
+- What is the contribution of methane and nitrous oxide to total GHG emissions across countries?
+- How have total and per capita CO₂ emissions changed over time (2000–2023) by country?
+- What are the trends in sectoral CO₂ emissions (coal, oil, gas, cement, land use) over time?
+- How strongly are sectoral emissions correlated with total CO₂ emissions?
+- What is the correlation between GDP, energy consumption, and CO₂ emissions?
+- Which sector is the strongest predictor of CO₂ emissions based on linear trend analysis?
+- Are there significant differences in emissions intensity (CO₂ per GDP, CO₂ per capita) between countries?
+- What is the contribution of methane and nitrous oxide to total greenhouse gas emissions?
 
 ---
 
